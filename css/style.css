@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background-color: #590f0f;
+    background-color: black;
     color: #FFFFFF;
     padding: 1rem;
     text-align: center;
@@ -48,7 +48,7 @@ img:hover {
 }
 
 footer {
-    background-color: #590f0f;
+    background-color: black;
     color: #fff;
     padding: 1rem;
     text-align: center;
