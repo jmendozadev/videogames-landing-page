@@ -1,2 +1,2 @@
 # Landing Page de Videojuegos
-![Videogames landing page](img/proyecto2)
+![Videogames landing page](images/proyecto2)
